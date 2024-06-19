@@ -1,0 +1,6 @@
+This to-do list working for this step.
+
+1.	Create react app in code editor  application .
+2.	 And copy this App code and pest src/App.jsx file.
+3.	And install this packages  1 ( npm I react-icons )  2 ( npm I  tailwindcss ).
+4.	Console type ( npm run dev ) and start program .
